@@ -1,0 +1,2 @@
+header{font-family:Arial,Helvetica,sans-serif}header,main{text-align:center}.square{background-color:beige;border:1px solid #000;cursor:pointer;display:inline-block;margin-top:4px;min-height:80px;width:80px}.o,.x{position:relative;text-align:center}.o:after{content:"\01F6E1"}.o:after,.x:after{bottom:0;font-size:50px;left:0;line-height:80px;position:absolute;right:0;top:0}.x:after{content:"\02694"}.btn{margin-top:20px}
+/*# sourceMappingURL=styles.css.map*/
